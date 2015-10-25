@@ -3,6 +3,11 @@
 %:
 	dh $* --with python2,python3
 
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -rf build/
+	rm -rf src/python_etcd.egg-info
+
 override_dh_auto_install:
 	dh_auto_install
 	set -ex; for python in $(shell py3versions -r); do \
