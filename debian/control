@@ -7,7 +7,7 @@ Homepage: https://github.com/jplana/python-etcd
 Build-Depends: python-all-dev (>= 2.6.6-3), python-all-dbg (>= 2.6.6-3), python3-all-dev, python3-all-dbg, debhelper (>= 9), python-unittest2, dh-python, python-setuptools, python3-setuptools
 Standards-Version: 3.9.6
 X-Python-Version: >= 2.7
-X-Python3-Version: >= 3.2
+X-Python3-Version: >= 3.3
 Vcs-Git: git://anonscm.debian.org/python-modules/packages/python-etcd.git -b unstable
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=python-modules/packages/python-etcd.git
 
