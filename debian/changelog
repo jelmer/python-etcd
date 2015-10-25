@@ -1,4 +1,4 @@
-python-etcd (0.4.2-2) UNRELEASED; urgency=low
+python-etcd (0.4.2-1) UNRELEASED; urgency=low
 
   * Initial release. (Closes: #802925)
 
