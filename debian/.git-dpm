@@ -6,3 +6,6 @@ df6caa92770eb49429bf6ee23f6cebebfe44b9e5
 python-etcd_0.4.2.orig.tar.gz
 6999d8a1da1823116acf16939d590e8e685018c4
 32193
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
