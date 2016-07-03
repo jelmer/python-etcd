@@ -1,0 +1,7 @@
+*~
+python-etcd/
+python3-etcd/
+*.substvars
+*.debhelper.log
+files
+*.debhelper

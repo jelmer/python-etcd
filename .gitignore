@@ -13,11 +13,3 @@ build
 dist
 docs
 .coverage
-
-*~
-debian/python-etcd/
-debian/python3-etcd/
-debian/*.substvars
-debian/*.debhelper.log
-debian/files
-debian/*.debhelper
