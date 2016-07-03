@@ -1,6 +1,10 @@
 python-etcd (0.4.3-3) UNRELEASED; urgency=medium
 
+  [ Ondřej Nový ]
   * Fixed VCS URL (https)
+
+  [ Jelmer Vernooĳ ]
+  * Merge in 0.4.2-2 changes.
 
  -- Ondřej Nový <novy@ondrej.org>  Tue, 29 Mar 2016 22:02:38 +0200
 
