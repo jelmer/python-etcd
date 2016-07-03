@@ -7,6 +7,8 @@ python-etcd (0.4.3-2) UNRELEASED; urgency=medium
   * Merge in 0.4.2-2 changes.
   * Unicodify my surname.
   * Bump standards version to 3.9.8 (no changes).
+  * Drop '-b unstable' from Vcs-Git header, consistent with team maintained
+  packages.
 
  -- Jelmer Vernooĳ <jelmer@debian.org>  Sun, 03 Jul 2016 20:58:13 +0000
 

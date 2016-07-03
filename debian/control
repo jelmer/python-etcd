@@ -8,7 +8,7 @@ Build-Depends: python-all (>= 2.6.6-3), python-all-dbg (>= 2.6.6-3), python3-all
 Standards-Version: 3.9.8
 X-Python-Version: >= 2.7
 X-Python3-Version: >= 3.3
-Vcs-Git: https://anonscm.debian.org/git/python-modules/packages/python-etcd.git -b unstable
+Vcs-Git: https://anonscm.debian.org/git/python-modules/packages/python-etcd.git
 Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/python-etcd.git
 
 Package: python-etcd
