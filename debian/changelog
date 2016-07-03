@@ -1,3 +1,9 @@
+python-etcd (0.4.3-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sun, 03 Jul 2016 20:40:16 +0000
+
 python-etcd (0.4.2-1) unstable; urgency=low
 
   * Initial release. (Closes: #802925)
